@@ -1,4 +1,5 @@
 **Hi there! 👋 I'm Janten Jaramiel**
+<br><br>
 🎓 I'm a 2nd year Bachelor Science Information Technology Student<br>🔗 I want to Collaborate with Small Projects and Internships<br>👨‍💻 I'm currently learning React JS, PHP and SQL (Backend & Database)<br>🔥 I'm passionate about learning, building and sharing<br>🎮 And yes i like gaming too and exploring games<br>💡 Fun fact<br><br>  -  I love exploring new Programming Language<br>  -  I want to code in dark with my iced coffee
 
 
